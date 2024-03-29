@@ -1,4 +1,4 @@
-| [Firmware update guide][19]  | [Инструкция по прошивке][20] | [Source code][21] |
+| [Firmware update guide][18]  | [Инструкция по прошивке][19] | [Source code][20] |
 | ---------------------------  | ---------------------------- | ----------------- |
 
 
@@ -21,7 +21,6 @@
 |[Remnant][15]
 |[Velvet v1][16]
 |[Velvet v2][17]
-|[Previous keyboards][18]
 
 
 [01]: https://github.com/ergohaven/vial-qmk/releases/download/3.2/3.2_hpd_v1.uf2                          
@@ -41,7 +40,6 @@
 [15]: https://github.com/ergohaven/vial-qmk/releases/download/3.2/3.2_remnant_v1.uf2
 [16]: https://github.com/ergohaven/vial-qmk/releases/download/3.2/3.2_velvet_v1.uf2
 [17]: https://github.com/ergohaven/vial-qmk/releases/download/3.2/3.2_velvet_v2.uf2
-[18]: https://github.com/ergohaven/keymap_hub/tree/main/archive
-[19]: https://ergohaven.xyz/docs
-[20]: https://ru.ergohaven.xyz/docs
-[21]: https://github.com/ergohaven/vial-qmk/tree/vial/keyboards/ergohaven
+[18]: https://ergohaven.xyz/docs
+[19]: https://ru.ergohaven.xyz/docs
+[20]: https://github.com/ergohaven/vial-qmk/tree/vial/keyboards/ergohaven
