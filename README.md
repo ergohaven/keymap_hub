@@ -44,6 +44,4 @@
 [18]: https://github.com/ergohaven/keymap_hub/tree/main/archive
 [19]: https://ergohaven.xyz/docs
 [20]: https://ru.ergohaven.xyz/docs
-
-
-- ### [Source code](https://github.com/ergohaven/vial-qmk/tree/vial/keyboards/ergohaven)
+[21]: https://github.com/ergohaven/vial-qmk/tree/vial/keyboards/ergohaven
