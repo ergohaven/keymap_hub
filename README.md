@@ -1,5 +1,9 @@
-| Firmware file           | Full source |
-| --------------| ----------- |
+- ### [Firmware update guide](https://github.com/ergohaven/vial-qmk/tree/vial/keyboards/ergohaven)
+- ### [Инструкция по прошивке](https://github.com/ergohaven/vial-qmk/tree/vial/keyboards/ergohaven)
+- ### [Source code](https://github.com/ergohaven/vial-qmk/tree/vial/keyboards/ergohaven)
+
+| Firmware file |
+| --------------|
 |[HPD][01]
 |[K:03 (without encoders)][02]
 |[K:03 (left encoder)][03]
@@ -17,9 +21,8 @@
 |[Remnant][015]
 |[Velvet v1][016]
 |[Velvet v2][017]
-|[Old keyboards archive][018]
+|[Previous keyboards][018]
 
-### [Source code](https://github.com/ergohaven/vial-qmk/tree/vial/keyboards/ergohaven)
 
 [01]: https://github.com/ergohaven/vial-qmk/releases/download/3.2/3.2_hpd_v1.uf2                          
 [02]: https://github.com/ergohaven/vial-qmk/releases/download/3.2/3.2_k03_no-enc.uf2          
