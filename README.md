@@ -16,16 +16,16 @@
 |[Velvet v2][10]
 
 
-[01]: https://github.com/ergohaven/vial-qmk/releases/download/3.4/3.4_hpd_v1.uf2                          
-[02]: https://github.com/ergohaven/vial-qmk/releases/download/3.4/3.4_k03_v1.uf2          
-[03]: https://github.com/ergohaven/vial-qmk/releases/download/3.4/3.4_imperial44_v1.uf2    
-[04]: https://github.com/ergohaven/vial-qmk/releases/download/3.4/3.4_k02_v1.uf2
-[05]: https://github.com/ergohaven/vial-qmk/releases/download/3.4/3.4_planeta_v1.uf2
-[06]: https://github.com/ergohaven/vial-qmk/releases/download/3.4/3.4_planeta_v2.uf2
-[07]: https://github.com/ergohaven/vial-qmk/releases/download/3.4/3.4_macropad_v1.uf2
-[08]: https://github.com/ergohaven/vial-qmk/releases/download/3.4/3.4_remnant_v1.uf2
-[09]: https://github.com/ergohaven/vial-qmk/releases/download/3.4/3.4_velvet_v1.uf2
-[10]: https://github.com/ergohaven/vial-qmk/releases/download/3.4/3.4_velvet_v2.uf2
+[01]: https://github.com/ergohaven/vial-qmk/releases/download/3.5/3.5_hpd_v1.uf2                          
+[02]: https://github.com/ergohaven/vial-qmk/releases/download/3.5/3.5_k03_v1.uf2          
+[03]: https://github.com/ergohaven/vial-qmk/releases/download/3.5/3.5_imperial44_v1.uf2    
+[04]: https://github.com/ergohaven/vial-qmk/releases/download/3.5/3.5_k02_v1.uf2
+[05]: https://github.com/ergohaven/vial-qmk/releases/download/3.5/3.5_planeta_v1.uf2
+[06]: https://github.com/ergohaven/vial-qmk/releases/download/3.5/3.5_planeta_v2.uf2
+[07]: https://github.com/ergohaven/vial-qmk/releases/download/3.5/3.5_macropad_v1.uf2
+[08]: https://github.com/ergohaven/vial-qmk/releases/download/3.5/3.5_remnant_v1.uf2
+[09]: https://github.com/ergohaven/vial-qmk/releases/download/3.5/3.5_velvet_v1.uf2
+[10]: https://github.com/ergohaven/vial-qmk/releases/download/3.5/3.5_velvet_v2.uf2
 [11]: https://ergohaven.xyz/docs
 [12]: https://ru.ergohaven.xyz/docs
 [13]: https://github.com/ergohaven/vial-qmk/tree/vial/keyboards/ergohaven
