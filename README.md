@@ -2,19 +2,14 @@
 | ---------------------------  | ---------------------------- | ----------------- |
 
 
-| Firmware file (uf2) |
-| ------------------- |
-|[HPD][04]
-|[K:03][05]
-|[Imperial44][06]
-|[K:02][07]
-|[Planeta v1][08]
-|[Planeta v2][09]
-|[M4CR0Pad v1][10]
-|[M4CR0Pad v2][11]
-|[Remnant][12]
-|[Velvet v1][13]
-|[Velvet v2][14]
+| Previous keyboards  | Current keyboards   |
+| ------------------- | ------------------- |
+| [K:02][07]          | [K:03][05]          |
+| [Remnant][12]       | [HPD][04]           |
+|                     | [Imperial44][06]    |
+| [Planeta v1][08]    | [Planeta v2][09]    |
+| [M4CR0Pad v1][10]   | [M4CR0Pad v2][11]   |      
+| [Velvet v1][13]     | [Velvet v2][14]     |     
 
 
 [01]: https://ergohaven.xyz/docs
