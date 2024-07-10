@@ -12,9 +12,9 @@
 |[Planeta v2][06]
 |[M4CR0Pad v1][07]
 |[M4CR0Pad v2][08]
-|[Remnant][08]
-|[Velvet v1][09]
-|[Velvet v2][10]
+|[Remnant][09]
+|[Velvet v1][10]
+|[Velvet v2][11]
 
 
 [01]: https://github.com/ergohaven/vial-qmk/releases/download/3.5.0/3.5.0_hpd_v1.uf2                          
