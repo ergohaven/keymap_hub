@@ -11,7 +11,7 @@
 |[Planeta v1][05]
 |[Planeta v2][06]
 |[M4CR0Pad v1][07]
-|[M4CR0Pad v2][07]
+|[M4CR0Pad v2][08]
 |[Remnant][08]
 |[Velvet v1][09]
 |[Velvet v2][10]
