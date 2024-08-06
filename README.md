@@ -10,7 +10,7 @@
 | [Planeta v1][08]    | [Planeta v2][09]    |
 | [M4CR0Pad v1][10]   | [M4CR0Pad v2][11]   |      
 | [Velvet v1][13]     | [Velvet v2][14]     |     
-|                     | [Trackball][15]    |
+|                     | [Trackball][15]     |
 
 
 [01]: https://ergohaven.xyz/docs
@@ -28,4 +28,4 @@
 [12]: https://github.com/ergohaven/vial-qmk/releases/download/3.6.0/3.6.0_remnant_v1.uf2
 [13]: https://github.com/ergohaven/vial-qmk/releases/download/3.6.0/3.6.0_velvet_v1.uf2
 [14]: https://github.com/ergohaven/vial-qmk/releases/download/3.6.0/3.6.0_velvet_v2.uf2
-[14]: https://github.com/ergohaven/vial-qmk/releases/download/3.6.0/3.6.0_trackball_v1.uf2
+[15]: https://github.com/ergohaven/vial-qmk/releases/download/3.6.0/3.6.0_trackball_v1.uf2
