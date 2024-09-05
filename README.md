@@ -2,7 +2,7 @@
 | ---------------------------  | ---------------------------- | ----------------- |
 
 
-| Previous keyboards  | Current keyboards   |
+| Previous devices    | Current devices     |
 | ------------------- | ------------------- |
 | [K:02][07]          | [K:03][05]          |
 | [Remnant][12]       | [HPD][04]           |
@@ -11,6 +11,7 @@
 | [M4CR0Pad v1][10]   | [M4CR0Pad v2][11]   |      
 | [Velvet v1][13]     | [Velvet v2][14]     |     
 |                     | [Trackball][15]     |
+|                     | [K:03 PRO][16]      |
 
 
 [01]: https://ergohaven.xyz/docs
@@ -29,3 +30,4 @@
 [13]: https://github.com/ergohaven/vial-qmk/releases/download/3.7.0/3.7.0_velvet_v1.uf2
 [14]: https://github.com/ergohaven/vial-qmk/releases/download/3.7.0/3.7.0_velvet_v2.uf2
 [15]: https://github.com/ergohaven/vial-qmk/releases/download/3.7.0/3.7.0_trackball_v1.uf2
+[16]: https://github.com/ergohaven/vial-qmk/releases/download/3.7.0/3.7.0_k03pro_v1.uf2
