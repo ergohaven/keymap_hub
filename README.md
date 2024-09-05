@@ -17,15 +17,15 @@
 [02]: https://ru.ergohaven.xyz/docs
 [03]: https://github.com/ergohaven/vial-qmk/tree/vial/keyboards/ergohaven
 
-[04]: https://github.com/ergohaven/vial-qmk/releases/download/3.6.0/3.6.0_hpd_v1.uf2                          
-[05]: https://github.com/ergohaven/vial-qmk/releases/download/3.6.0/3.6.0_k03_v1.uf2          
-[06]: https://github.com/ergohaven/vial-qmk/releases/download/3.6.0/3.6.0_imperial44_v1.uf2    
-[07]: https://github.com/ergohaven/vial-qmk/releases/download/3.6.0/3.6.0_k02_v1.uf2
-[08]: https://github.com/ergohaven/vial-qmk/releases/download/3.6.0/3.6.0_planeta_v1.uf2
-[09]: https://github.com/ergohaven/vial-qmk/releases/download/3.6.0/3.6.0_planeta_v2.uf2
-[10]: https://github.com/ergohaven/vial-qmk/releases/download/3.6.0/3.6.0_macropad_v1.uf2
-[11]: https://github.com/ergohaven/vial-qmk/releases/download/3.6.0/3.6.0_macropad_v2.uf2
-[12]: https://github.com/ergohaven/vial-qmk/releases/download/3.6.0/3.6.0_remnant_v1.uf2
-[13]: https://github.com/ergohaven/vial-qmk/releases/download/3.6.0/3.6.0_velvet_v1.uf2
-[14]: https://github.com/ergohaven/vial-qmk/releases/download/3.6.0/3.6.0_velvet_v2.uf2
-[15]: https://github.com/ergohaven/vial-qmk/releases/download/3.6.0/3.6.0_trackball_v1.uf2
+[04]: https://github.com/ergohaven/vial-qmk/releases/download/3.7.0/3.7.0_hpd_v1.uf2                          
+[05]: https://github.com/ergohaven/vial-qmk/releases/download/3.7.0/3.7.0_k03_v1.uf2          
+[06]: https://github.com/ergohaven/vial-qmk/releases/download/3.7.0/3.7.0_imperial44_v1.uf2    
+[07]: https://github.com/ergohaven/vial-qmk/releases/download/3.7.0/3.7.0_k02_v1.uf2
+[08]: https://github.com/ergohaven/vial-qmk/releases/download/3.7.0/3.7.0_planeta_v1.uf2
+[09]: https://github.com/ergohaven/vial-qmk/releases/download/3.7.0/3.7.0_planeta_v2.uf2
+[10]: https://github.com/ergohaven/vial-qmk/releases/download/3.7.0/3.7.0_macropad_v1.uf2
+[11]: https://github.com/ergohaven/vial-qmk/releases/download/3.7.0/3.7.0_macropad_v2.uf2
+[12]: https://github.com/ergohaven/vial-qmk/releases/download/3.7.0/3.7.0_remnant_v1.uf2
+[13]: https://github.com/ergohaven/vial-qmk/releases/download/3.7.0/3.7.0_velvet_v1.uf2
+[14]: https://github.com/ergohaven/vial-qmk/releases/download/3.7.0/3.7.0_velvet_v2.uf2
+[15]: https://github.com/ergohaven/vial-qmk/releases/download/3.7.0/3.7.0_trackball_v1.uf2
