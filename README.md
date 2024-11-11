@@ -20,8 +20,8 @@
 [03]: https://github.com/ergohaven/vial-qmk/tree/vial/keyboards/ergohaven
 
 [04]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.03.8.0.10_hpd_v1.uf2                          
-[05]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.03.8.0.10_k03_v1.uf2          
-[06]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.03.8.0.10_imperial44_v1.uf2    
+[05]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.03.8.0.10_k03_v1_v2.uf2          
+[06]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.03.8.0.10_imperial44_v1_v2.uf2    
 [07]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.03.8.0.10_k02_v1.uf2
 [08]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.03.8.0.10_planeta_v1.uf2
 [09]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.03.8.0.10_planeta_v2.uf2
