@@ -4,15 +4,15 @@
 
 | Previous devices    | Current devices                     |
 | ------------------- | -------------------                 |
-| [K:02][07]          | [K:03][05]                          |
-| [Remnant][12]       | [HPD][04]                           |
-|                     | [Imperial44][06]                    |
+| [K:02][07]          | [K:03 v3][19]                       |
+| [Remnant][12]       |                                     |
+| [K:03 v1/v2][05]    | [Imperial44 v1/v2][06]              |
 | [Planeta v1][08]    | [Planeta v2][09]                    |
 | [M4CR0Pad v1][10]   | [M4CR0Pad v2][11]                   |
 | [Velvet v1][13]     | [Velvet v3][17]                     |
-| [Velvet v2][14]     | [Trackball][15]                     |
-|                     | [K:03 PRO (43mm touchpad)][16]      |
-|                     | [K:03 PRO (65mm touchpad)][18]      |
+| [Velvet v2][14]     | [Trackball v2][20]                  |
+| [HPD][04]           | [K:03 PRO (43mm touchpad)][16]      |
+| [Trackball v1][15]  | [K:03 PRO (65mm touchpad)][18]      |
 
 
 [01]: https://ergohaven.xyz/docs
@@ -34,3 +34,5 @@
 [16]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.3/3.8.3_k03pro_43mm_v1.uf2
 [17]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.3/3.8.3_velvet_v3.uf2
 [18]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.3/3.8.3_k03pro_65mm_v1.uf2
+[19]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.3/3.8.3_k03_v3.uf2
+[20]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.3/3.8.3_trackball_v2.uf2
