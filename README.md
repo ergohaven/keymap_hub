@@ -13,6 +13,9 @@
 | [Velvet v2][14]     | [Trackball v2][20]                  |
 | [HPD][04]           | [K:03 PRO (43mm touchpad)][16]      |
 | [Trackball v1][15]  | [K:03 PRO (65mm touchpad)][18]      |
+|                     | [HPD v2 (no modules)][21]           |
+|                     | [HPD v2 (encoder/trackball)][22]    |
+|                     | [HPD v2 (encoder/touch)][23]        |
 
 
 [01]: https://ergohaven.xyz/docs
@@ -36,3 +39,6 @@
 [18]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.4/3.8.4_k03pro_65mm_v1.uf2
 [19]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.4/3.8.4_k03_v3.uf2
 [20]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.4/3.8.4_trackball_v2.uf2
+[21]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.4/3.8.4_hpd_v2.uf2
+[22]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.4/3.8.4_hpd_v2_enc_ball.uf2
+[23]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.4/3.8.4_hpd_v2_enc_touch.uf2
