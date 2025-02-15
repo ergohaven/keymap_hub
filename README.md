@@ -1,21 +1,18 @@
 | [Firmware update guide][01]  | [Инструкция по прошивке][02] | [Source code][03] |
 | ---------------------------  | ---------------------------- | ----------------- |
 
-
-| Previous devices    | Current devices                  |
-| ------------------- | -------------------------------- |
-| [K:02][07]          | [K:03 v3][19]                    |
-| [Remnant][12]       | [Imperial44 v1/v2][06]           |
-| [K:03 v1/v2][05]    | [Planeta v2][09]                 |
-| [Planeta v1][08]    | [M4CR0Pad v2][11]                |
-| [M4CR0Pad v1][10]   | [Velvet v3][17]                  |
-| [Velvet v1][13]     | [Trackball v2][20]               |
-| [Velvet v2][14]     | [K:03 PRO (43mm touchpad)][16]   |
-| [HPD v1][04]        | [K:03 PRO (65mm touchpad)][18]   |
-| [Trackball v1][15]  | [HPD v2 (no modules)][21]        |
-|                     | [HPD v2 (encoder/trackball)][22] |
-|                     | [HPD v2 (encoder/touch)][23]     |
-
+| Previous devices                    | Current devices                                                                                 |
+| ----------------------------------- | ----------------------------------------------------------------------------------------------- |
+| [K:03 v1/v2][05]                    | [K:03 v3][19]                                                                                   |
+| [Imperial44 v1/v2][06]              | [Imperial44 v3][24]                                                                             |
+| [Planeta v1][08]                    | [Planeta v2][09]                                                                                |
+| [M4CR0Pad v1][10]                   | [M4CR0Pad v2][11]                                                                               |
+| [Velvet v1][13]</br>[Velvet v2][14] | [Velvet v3][17]                                                                                 |
+| [Trackball v1][15]                  | [Trackball v2][20]                                                                              |
+|                                     | [K:03 PRO (43mm touchpad)][16]</br>[K:03 PRO (65mm touchpad)][18]                               |
+| [HPD v1][04]                        | [HPD v2 (no modules)][21]</br>[HPD v2 (encoder/trackball)][22]</br>[HPD v2 (encoder/touch)][23] |
+| [K:02][07]                          |                                                                                                 |
+| [Remnant][12]                       |                                                                                                 |
 
 [01]: https://ergohaven.xyz/docs
 [02]: https://ru.ergohaven.xyz/docs
@@ -41,3 +38,4 @@
 [21]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.5/3.8.5_hpd_v2.uf2
 [22]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.5/3.8.5_hpd_v2_enc_ball.uf2
 [23]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.5/3.8.5_hpd_v2_enc_touch.uf2
+[24]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.5/3.8.5_imperial44_v3.uf2
