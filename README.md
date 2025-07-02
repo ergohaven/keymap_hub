@@ -1,5 +1,34 @@
+# Ссылки на актуальные прошивки
+
+## ZMK
+
+| Device       | Standard layout        | RuEn layout            |
+| ------------ | ---------------------- | ---------------------- |
+| OP36         | [left][50] [right][52] | [left][51] [right][52] |
+| Velvet v3    | [left][60] [right][62] | [left][61] [right][62] |
+| Velvet v3 UI | [left][70] [right][71] | [left][70] [right][72] |
+
+[50]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.06.26/op36_left-ergohaven-zmk.uf2
+[51]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.06.26/op36_left_ruen-ergohaven-zmk.uf2
+[52]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.06.26/op36_right-ergohaven-zmk.uf2
+
+[60]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.06.26/velvet_v3_left-ergohaven-zmk.uf2
+[61]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.06.26/velvet_v3_left_ruen-ergohaven-zmk.uf2
+[62]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.06.26/velvet_v3_right-ergohaven-zmk.uf2
+
+[70]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.06.26/velvet_v3_ui_left-ergohaven-zmk.uf2
+[71]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.06.26/velvet_v3_ui_right-ergohaven-zmk.uf2
+[72]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.06.26/velvet_v3_ui_right_ruen-ergohaven-zmk.uf2
+
+
+## QMK (Vial)
+
 | [Firmware update guide][01]  | [Инструкция по прошивке][02] | [Source code][03] |
 | ---------------------------  | ---------------------------- | ----------------- |
+
+[01]: https://ergohaven.xyz/docs
+[02]: https://ru.ergohaven.xyz/docs
+[03]: https://github.com/ergohaven/vial-qmk/tree/vial/keyboards/ergohaven
 
 | Previous devices                                  | Current devices                                                                                 |
 | ------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
@@ -13,10 +42,6 @@
 | [HPD v1][04]                                      | [HPD v2 (no modules)][21]</br>[HPD v2 (encoder/trackball)][22]</br>[HPD v2 (encoder/touch)][23] |
 | [K:02][07]                                        |                                                                                                 |
 | [Remnant][12]                                     |                                                                                                 |
-
-[01]: https://ergohaven.xyz/docs
-[02]: https://ru.ergohaven.xyz/docs
-[03]: https://github.com/ergohaven/vial-qmk/tree/vial/keyboards/ergohaven
 
 [04]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.5/3.8.5_hpd_v1.uf2
 [05]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.5/3.8.5_k03_v1_v2.uf2
