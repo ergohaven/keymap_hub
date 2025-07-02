@@ -1,8 +1,8 @@
 | [Firmware update guide][01]  | [Инструкция по прошивке][02] | [Source code][03] |
 | ---------------------------  | ---------------------------- | ----------------- |
 
-[01]: https://journey.ergohaven.xyz
-[02]: https://journey.ergohaven.xyz
+[01]: https://journey.ergohaven.xyz/pages/docs/
+[02]: https://journey.ergohaven.xyz/pages/docs/
 [03]: https://github.com/ergohaven
 
 ## QMK (wired)
