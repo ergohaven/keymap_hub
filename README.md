@@ -53,6 +53,10 @@
 | Velvet v3    | [left][60] [right][62] | [left][61] [right][62] |
 | Velvet v3 UI | [left][70] [right][71] | [left][70] [right][72] |
 
+[Reset all settings][00].
+
+[00]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.06.26/settings_reset-ergohaven-zmk.uf2
+
 [50]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.06.26/op36_left-ergohaven-zmk.uf2
 [51]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.06.26/op36_left_ruen-ergohaven-zmk.uf2
 [52]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.06.26/op36_right-ergohaven-zmk.uf2
