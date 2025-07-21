@@ -8,7 +8,7 @@
 ## QMK (wired)
 | Previous devices                                  | Current devices                  |
 | ------------------------------------------------- | -------------------------------- |
-| [K:03 v1/v2][05]                                  | [K:03 v3][19]                    |
+| [K:03 v1/v2][05]                                  | [K:03 v3/v4][19]                 |
 | [Imperial44 v1/v2][06]                            | [Imperial44 v3][24]              |
 | [Planeta v1][08]                                  | [Planeta v2][09]                 |
 | [M4CR0Pad v1][10]                                 | [M4CR0Pad v2][11]                |
