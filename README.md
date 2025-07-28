@@ -56,19 +56,19 @@
 
 [Reset all settings][00].
 
-[00]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.18/settings_reset-ergohaven-zmk.uf2
+[00]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.28/settings_reset-ergohaven-zmk.uf2
 
-[50]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.18/op36_left-ergohaven-zmk.uf2
-[51]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.18/op36_left_ruen-ergohaven-zmk.uf2
-[52]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.18/op36_right-ergohaven-zmk.uf2
+[50]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.28/op36_left-ergohaven-zmk.uf2
+[51]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.28/op36_left_ruen-ergohaven-zmk.uf2
+[52]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.28/op36_right-ergohaven-zmk.uf2
 
-[60]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.18/velvet_v3_left-ergohaven-zmk.uf2
-[61]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.18/velvet_v3_left_ruen-ergohaven-zmk.uf2
-[62]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.18/velvet_v3_right-ergohaven-zmk.uf2
+[60]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.28/velvet_v3_left-ergohaven-zmk.uf2
+[61]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.28/velvet_v3_left_ruen-ergohaven-zmk.uf2
+[62]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.28/velvet_v3_right-ergohaven-zmk.uf2
 
-[70]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.18/velvet_v3_ui_left-ergohaven-zmk.uf2
-[71]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.18/velvet_v3_ui_right-ergohaven-zmk.uf2
-[72]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.18/velvet_v3_ui_right_ruen-ergohaven-zmk.uf2
+[70]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.28/velvet_v3_ui_left-ergohaven-zmk.uf2
+[71]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.28/velvet_v3_ui_right-ergohaven-zmk.uf2
+[72]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.28/velvet_v3_ui_right_ruen-ergohaven-zmk.uf2
 
-[80]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.18/k03_left-ergohaven-zmk.uf2
-[81]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.18/k03_right-ergohaven-zmk.uf2
+[80]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.28/k03_left-ergohaven-zmk.uf2
+[81]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.28/k03_right-ergohaven-zmk.uf2
