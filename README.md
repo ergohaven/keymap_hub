@@ -47,12 +47,17 @@
 [26]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.6/3.8.6_hpd_v2_enc_joy.uf2
 
 ## ZMK (wireless)
-| Device       | Standard layout        | RuEn layout            |
-| ------------ | ---------------------- | ---------------------- |
-| OP36         | [left][50] [right][52] | [left][51] [right][52] |
-| Velvet v3    | [left][60] [right][62] | [left][61] [right][62] |
-| Velvet v3 UI | [left][70] [right][71] | [left][70] [right][72] |
-| K:03 v4      | [left][80] [right][81] | 🚧                     |
+| Device              | Standard layout                   | RuEn layout                       |
+| ------------------- | --------------------------------- | --------------------------------- |
+| OP36                | [left][50] [right][52]            | [left][51] [right][52]            |
+| OP36 + Qube         | [left][53] [right][52] [qube][54] | [left][53] [right][52] [qube][55] |
+| Velvet v3           | [left][60] [right][62]            | [left][61] [right][62]            |
+| Velvet v3 + Qube    | [left][60] [right][62] [qube][64] | [left][63] [right][62] [qube][65] |
+| Velvet v3 UI        | [left][70] [right][71]            | [left][70] [right][72]            |
+| Velvet v3 UI + Qube | [left][70] [right][73] [qube][74] | [left][70] [right][73] [qube][75] |
+| K:03 v4             | [left][80] [right][82]            | 🚧                                |
+| K:03 v4 + Qube      | [left][83] [right][82] [qube][84] | 🚧                                |
+
 
 [Reset all settings][00].
 
@@ -61,14 +66,27 @@
 [50]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.28/op36_left-ergohaven-zmk.uf2
 [51]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.28/op36_left_ruen-ergohaven-zmk.uf2
 [52]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.28/op36_right-ergohaven-zmk.uf2
+[53]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.28/op36_left_qube-ergohaven-zmk.uf2
+[54]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.28/op36_qube-ergohaven-zmk.uf2
+[55]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.28/op36_qube_ruen-ergohaven-zmk.uf2
 
 [60]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.28/velvet_v3_left-ergohaven-zmk.uf2
 [61]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.28/velvet_v3_left_ruen-ergohaven-zmk.uf2
 [62]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.28/velvet_v3_right-ergohaven-zmk.uf2
+[63]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.28/velvet_v3_left_qube-ergohaven-zmk.uf2
+[64]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.28/velvet_v3_qube-ergohaven-zmk.uf2
+[65]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.28/velvet_v3_qube_ruen-ergohaven-zmk.uf2
 
 [70]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.28/velvet_v3_ui_left-ergohaven-zmk.uf2
 [71]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.28/velvet_v3_ui_right-ergohaven-zmk.uf2
 [72]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.28/velvet_v3_ui_right_ruen-ergohaven-zmk.uf2
+[73]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.28/velvet_v3_ui_right_qube-ergohaven-zmk.uf2
+[74]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.28/velvet_v3_ui_qube-ergohaven-zmk.uf2
+[75]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.28/velvet_v3_ui_qube_ruen-ergohaven-zmk.uf2
 
 [80]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.28/k03_left-ergohaven-zmk.uf2
-[81]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.28/k03_right-ergohaven-zmk.uf2
+[81]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.28/k03_left_ruen-ergohaven-zmk.uf2
+[82]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.28/k03_right-ergohaven-zmk.uf2
+[83]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.28/k03_left_qube-ergohaven-zmk.uf2
+[84]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.28/k03_qube-ergohaven-zmk.uf2
+[85]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.28/k03_qube_ruen-ergohaven-zmk.uf2
