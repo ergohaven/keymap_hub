@@ -52,7 +52,7 @@
 | OP36                | [left][50] [right][52]            | [left][51] [right][52]            |
 | OP36 + Qube         | [left][53] [right][52] [qube][54] | [left][53] [right][52] [qube][55] |
 | Velvet v3           | [left][60] [right][62]            | [left][61] [right][62]            |
-| Velvet v3 + Qube    | [left][60] [right][62] [qube][64] | [left][63] [right][62] [qube][65] |
+| Velvet v3 + Qube    | [left][63] [right][62] [qube][64] | [left][63] [right][62] [qube][65] |
 | Velvet v3 UI        | [left][70] [right][71]            | [left][70] [right][72]            |
 | Velvet v3 UI + Qube | [left][70] [right][73] [qube][74] | [left][70] [right][73] [qube][75] |
 | K:03 v4             | [left][80] [right][82]            | 🚧                                |
