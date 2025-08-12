@@ -3,7 +3,7 @@
 
 [01]: https://journey.ergohaven.xyz/pages/docs/
 [02]: https://journey.ergohaven.xyz/pages/docs/
-[03]: https://github.com/ergohaven/qmk-vial
+[03]: https://github.com/ergohaven/vial-qmk
 [04]: https://github.com/ergohaven/?q=zmk&type=all&language=&sort=
 
 
