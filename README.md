@@ -61,7 +61,7 @@
 | K:03 v4 + Qube      | [left][83] [right][82] [qube][84] | 🚧                                |
 
 
-[Reset all settings for ZMK device][00].
+[Reset all settings for ZMK device][00]
 
 [00]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.28/settings_reset-ergohaven-zmk.uf2
 
