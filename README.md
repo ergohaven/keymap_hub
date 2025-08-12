@@ -1,9 +1,11 @@
-| [Firmware update guide][01]  | [Инструкция по прошивке][02] | [Source code][03] |
-| ---------------------------  | ---------------------------- | ----------------- |
+| [Firmware update guide][01]  | [Инструкция по прошивке][02] | [QMK Source code][03] | [ZMK Source code][04] |
+| ---------------------------  | ---------------------------- | --------------------- | --------------------- |
 
 [01]: https://journey.ergohaven.xyz/pages/docs/
 [02]: https://journey.ergohaven.xyz/pages/docs/
-[03]: https://github.com/ergohaven
+[03]: https://github.com/ergohaven/qmk-vial
+[04]: https://github.com/ergohaven/?q=zmk&type=all&language=&sort=
+
 
 ## QMK (wired)
 | Previous devices                                  | Current devices                  |
@@ -59,7 +61,7 @@
 | K:03 v4 + Qube      | [left][83] [right][82] [qube][84] | 🚧                                |
 
 
-[Reset all settings][00].
+[Reset all settings for ZMK device][00].
 
 [00]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2025.07.28/settings_reset-ergohaven-zmk.uf2
 
