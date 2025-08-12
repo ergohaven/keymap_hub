@@ -1,7 +1,7 @@
 | [Firmware update guide][01]  | [Инструкция по прошивке][02] | [QMK Source code][03] | [ZMK Source code][04] |
 | ---------------------------  | ---------------------------- | --------------------- | --------------------- |
 
-[01]: https://journey.ergohaven.xyz/pages/docs/
+[01]: https://journey.ergohaven.xyz/en-gb/pages/docs/
 [02]: https://journey.ergohaven.xyz/pages/docs/
 [03]: https://github.com/ergohaven/vial-qmk
 [04]: https://github.com/ergohaven/?q=zmk&type=all&language=&sort=
