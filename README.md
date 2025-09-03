@@ -24,29 +24,29 @@
 | [K:02][07]                                        |                                  |
 | [Remnant][12]                                     |                                  |
 
-[04]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.6/3.8.6_hpd_v1.uf2
-[05]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.6/3.8.6_k03_v1_v2.uf2
-[06]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.6/3.8.6_imperial44_v1_v2.uf2
-[07]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.6/3.8.6_k02_v1.uf2
-[08]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.6/3.8.6_planeta_v1.uf2
-[09]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.6/3.8.6_planeta_v2.uf2
-[10]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.6/3.8.6_macropad_v1.uf2
-[11]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.6/3.8.6_macropad_v2.uf2
-[12]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.6/3.8.6_remnant_v1.uf2
-[13]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.6/3.8.6_velvet_v1.uf2
-[14]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.6/3.8.6_velvet_v2.uf2
-[15]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.6/3.8.6_trackball_v1.uf2
-[16]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.6/3.8.6_k03pro_43mm_v1.uf2
-[17]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.6/3.8.6_velvet_v3.uf2
-[18]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.6/3.8.6_k03pro_65mm_v1.uf2
-[19]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.6/3.8.6_k03_v3.uf2
-[20]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.6/3.8.6_trackball_v2.uf2
-[21]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.6/3.8.6_hpd_v2.uf2
-[22]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.6/3.8.6_hpd_v2_enc_ball.uf2
-[23]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.6/3.8.6_hpd_v2_enc_touch.uf2
-[24]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.6/3.8.6_imperial44_v3.uf2
-[25]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.6/3.8.6_k03pro_v2.uf2
-[26]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.6/3.8.6_hpd_v2_enc_joy.uf2
+[04]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.7/3.8.7_hpd_v1.uf2
+[05]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.7/3.8.7_k03_v1_v2.uf2
+[06]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.7/3.8.7_imperial44_v1_v2.uf2
+[07]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.7/3.8.7_k02_v1.uf2
+[08]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.7/3.8.7_planeta_v1.uf2
+[09]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.7/3.8.7_planeta_v2.uf2
+[10]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.7/3.8.7_macropad_v1.uf2
+[11]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.7/3.8.7_macropad_v2.uf2
+[12]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.7/3.8.7_remnant_v1.uf2
+[13]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.7/3.8.7_velvet_v1.uf2
+[14]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.7/3.8.7_velvet_v2.uf2
+[15]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.7/3.8.7_trackball_v1.uf2
+[16]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.7/3.8.7_k03pro_43mm_v1.uf2
+[17]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.7/3.8.7_velvet_v3.uf2
+[18]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.7/3.8.7_k03pro_65mm_v1.uf2
+[19]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.7/3.8.7_k03_v3.uf2
+[20]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.7/3.8.7_trackball_v2.uf2
+[21]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.7/3.8.7_hpd_v2.uf2
+[22]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.7/3.8.7_hpd_v2_enc_ball.uf2
+[23]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.7/3.8.7_hpd_v2_enc_touch.uf2
+[24]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.7/3.8.7_imperial44_v3.uf2
+[25]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.7/3.8.7_k03pro_v2.uf2
+[26]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.7/3.8.7_hpd_v2_enc_joy.uf2
 
 ## ZMK (wireless)
 | Device              | Standard layout                   | RuEn layout                       |
