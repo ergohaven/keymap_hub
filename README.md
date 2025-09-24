@@ -39,7 +39,7 @@
 [16]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.7/3.8.7_k03pro_43mm_v1.uf2
 [17]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.7/3.8.7_velvet_v3.uf2
 [18]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.7/3.8.7_k03pro_65mm_v1.uf2
-[19]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.7/3.8.7_k03_v3.uf2
+[19]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.7/3.8.7_k03_v3_v4.uf2
 [20]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.7/3.8.7_trackball_v2.uf2
 [21]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.7/3.8.7_hpd_v2.uf2
 [22]: https://github.com/ergohaven/vial-qmk/releases/download/3.8.7/3.8.7_hpd_v2_enc_ball.uf2
