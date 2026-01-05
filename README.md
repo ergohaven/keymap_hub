@@ -58,10 +58,10 @@
 | Velvet v3 + Qube    | [left][63] [right][62] [qube][64] | [left][63] [right][62] [qube][65] |
 | Velvet v3 UI        | [left][70] [right][71]            | [left][70] [right][72]            |
 | Velvet v3 UI + Qube | [left][70] [right][73] [qube][74] | [left][70] [right][73] [qube][75] |
-| K:03 v4             | [left][80] [right][82]            | [left][80] [right][82]            |
-| K:03 v4 + Qube      | [left][83] [right][82] [qube][84] | [left][80] [right][83] [qube][85] |
-| Imperial44          | [left][90] [right][92]            | [left][90] [right][92]            |
-| Imperial44 + Qube   | [left][93] [right][92] [qube][94] | [left][90] [right][93] [qube][95] |
+| K:03 v4             | [left][80] [right][82]            | [left][81] [right][82]            |
+| K:03 v4 + Qube      | [left][83] [right][82] [qube][84] | [left][83] [right][82] [qube][85] |
+| Imperial44          | [left][90] [right][92]            | [left][91] [right][92]            |
+| Imperial44 + Qube   | [left][93] [right][92] [qube][94] | [left][93] [right][92] [qube][95] |
 | Trackball Mini v3   | [trackball][100]                  |                                   |
 
 
