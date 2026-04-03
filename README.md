@@ -1,10 +1,10 @@
-| [Firmware update guide][01]  | [Инструкция по прошивке][02] | [QMK Source code][03] | [ZMK Source code][04] |
-| ---------------------------  | ---------------------------- | --------------------- | --------------------- |
-
-[01]: https://docs.ergohaven.xyz/en/
-[02]: https://docs.ergohaven.xyz/
-[03]: https://github.com/ergohaven/vial-qmk
-[04]: https://github.com/ergohaven/ergohaven-zmk
+{{< cards >}}
+  {{< card link="https://docs.ergohaven.xyz/en/" title="Firmware update guide" icon="book-open" >}}
+  {{< card link="https://docs.ergohaven.xyz/" title="Инструкция по прошивке" icon="book-open" >}}
+  {{< card link="https://github.com/ergohaven/vial-qmk" title="QMK Source code" icon="code" >}}
+  {{< card link="https://github.com/ergohaven/ergohaven-zmk" title="ZMK Source code" icon="code" >}}
+  {{< card link="https://github.com/ergohaven/rmk" title="RMK Source code" icon="code" >}}
+{{< /cards >}}
 
 
 ## QMK (wired)
@@ -64,7 +64,7 @@
 | K:03 v4 + Qube      | [left][z83] [right][z82] [qube][z84]           | [left][z83] [right][z82] [qube][z85] |
 | Imperial44          | [left][z90] [right][z92]                       | [left][z91] [right][z92]             |
 | Imperial44 + Qube   | [left][z93] [right][z92] [qube][z94]           | [left][z93] [right][z92] [qube][z95] |
-| Trackball           | [mini v3.0][z40] [mini v3.1][z41] [royal][z42] |                                      |
+| Trackball           | [mini v3.0][z40] [mini v3.1][z41] [royale][z42] |                                      |
 
 
 [Reset all settings for ZMK device][z00]
@@ -110,3 +110,37 @@
 [z93]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2026.03.16/imperial44_left_qube-ergohaven-zmk.uf2
 [z94]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2026.03.16/imperial44_qube-ergohaven-zmk.uf2
 [z95]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2026.03.16/imperial44_qube_ruen-ergohaven-zmk.uf2
+
+## RMK (wireless)
+| Device       | Standard layout                                |
+| ------------ | ---------------------------------------------- |
+| OP36         | [left][r50] [right][r52]                       |
+| Velvet v3    | [left][r60] [right][r62]                       |
+| Velvet v3 UI | [left][r70] [right][r71]                       |
+| K:03 v4      | [left][r80] [right][r82]                       |
+| Imperial44   | [left][r90] [right][r92]                       |
+| Trackball    | [mini v3.0][r40] [mini v3.1][r41] [royale][r42] |
+
+
+[Reset all settings for RMK device][r00]
+
+[r00]: https://github.com/ergohaven/rmk/releases/download/v0.1.0/settings_reset.uf2
+
+[r40]: https://github.com/ergohaven/rmk/releases/download/v0.1.0/trackball_mini_v3.0.uf2
+[r41]: https://github.com/ergohaven/rmk/releases/download/v0.1.0/trackball_mini_v3.1.uf2
+[r42]: https://github.com/ergohaven/rmk/releases/download/v0.1.0/trackball_royale.uf2
+
+[r50]: https://github.com/ergohaven/rmk/releases/download/v0.1.0/op36_left.uf2
+[r52]: https://github.com/ergohaven/rmk/releases/download/v0.1.0/op36_right.uf2
+
+[r60]: https://github.com/ergohaven/rmk/releases/download/v0.1.0/velvet_left.uf2
+[r62]: https://github.com/ergohaven/rmk/releases/download/v0.1.0/velvet_right.uf2
+
+[r70]: https://github.com/ergohaven/rmk/releases/download/v0.1.0/velvet_ui_left.uf2
+[r71]: https://github.com/ergohaven/rmk/releases/download/v0.1.0/velvet_ui_right.uf2
+
+[r80]: https://github.com/ergohaven/rmk/releases/download/v0.1.0/k03_left.uf2
+[r82]: https://github.com/ergohaven/rmk/releases/download/v0.1.0/k03_right.uf2
+
+[r90]: https://github.com/ergohaven/rmk/releases/download/v0.1.0/imperial44_left.uf2
+[r92]: https://github.com/ergohaven/rmk/releases/download/v0.1.0/imperial44_right.uf2
