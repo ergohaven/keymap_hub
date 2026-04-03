@@ -1,10 +1,11 @@
-{{< cards >}}
-  {{< card link="https://docs.ergohaven.xyz/en/" title="Firmware update guide" icon="book-open" >}}
-  {{< card link="https://docs.ergohaven.xyz/" title="Инструкция по прошивке" icon="book-open" >}}
-  {{< card link="https://github.com/ergohaven/vial-qmk" title="QMK Source code" icon="code" >}}
-  {{< card link="https://github.com/ergohaven/ergohaven-zmk" title="ZMK Source code" icon="code" >}}
-  {{< card link="https://github.com/ergohaven/rmk" title="RMK Source code" icon="code" >}}
-{{< /cards >}}
+| [Firmware update guide][01]  | [Инструкция по прошивке][02] | [QMK Source code][03] | [ZMK Source code][04] | [RMK Source code][05] |
+| ---------------------------  | ---------------------------- | --------------------- | --------------------- | --------------------- |
+
+[01]: https://docs.ergohaven.xyz/en/
+[02]: https://docs.ergohaven.xyz/
+[03]: https://github.com/ergohaven/vial-qmk
+[04]: https://github.com/ergohaven/ergohaven-zmk
+[05]: https://github.com/ergohaven/rmk
 
 
 ## QMK (wired)
