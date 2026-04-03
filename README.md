@@ -5,7 +5,7 @@
 [02]: https://docs.ergohaven.xyz/
 [03]: https://github.com/ergohaven/vial-qmk
 [04]: https://github.com/ergohaven/ergohaven-zmk
-[05]: https://github.com/ergohaven/rmk
+[05]: https://github.com/ergohaven/rmk-eh
 
 
 ## RMK (wireless)
