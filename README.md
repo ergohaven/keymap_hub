@@ -57,8 +57,8 @@
 |                                                     | [HPD v2 (encoder/trackball)][q22] |
 |                                                     | [HPD v2 (encoder/touch)][q23]     |
 |                                                     | [HPD v2 (encoder/joystick)][q26]  |
-|                                                     | [Phenom][q28]                       |
-|                                                     | [SM30][q29]                                  |
+|                                                     | [Phenom][q29]                     |
+|                                                     | [SM30][q28]                       |
 | [K:02][q07]                                         |                                   |
 | [Remnant][q12]                                      |                                   |
 
