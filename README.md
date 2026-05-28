@@ -57,8 +57,9 @@
 |                                                     | [HPD v2 (encoder/trackball)][q22] |
 |                                                     | [HPD v2 (encoder/touch)][q23]     |
 |                                                     | [HPD v2 (encoder/joystick)][q26]  |
-|                                                     | [Phenom][q29]                     |
 |                                                     | [SM30][q28]                       |
+|                                                     | [Phenom][q29]                     |
+|                                                     | [Phenom Mini][q30]                |
 | [K:02][q07]                                         |                                   |
 | [Remnant][q12]                                      |                                   |
 
@@ -88,6 +89,7 @@
 [q27]: https://github.com/ergohaven/vial-qmk/releases/download/4.0.4/4.0.4_macropad_v3.uf2
 [q28]: https://github.com/ergohaven/vial-qmk/releases/download/4.0.4/4.0.4_sm30_v1.uf2
 [q29]: https://github.com/ergohaven/vial-qmk/releases/download/4.0.4/4.0.4_phenom_v1.uf2
+[q30]: https://github.com/ergohaven/vial-qmk/releases/download/4.0.4/4.0.4_phenom_mini_v1.uf2
 
 ## ZMK (wireless)
 | Device              | Standard layout                                | RuEn layout                          |
