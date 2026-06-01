@@ -60,6 +60,7 @@
 |                                                     | [SM30][q28]                       |
 |                                                     | [Phenom][q29]                     |
 |                                                     | [Phenom Mini][q30]                |
+|                                                     | [Phenom Micro][q31]                |
 | [K:02][q07]                                         |                                   |
 | [Remnant][q12]                                      |                                   |
 
@@ -90,6 +91,7 @@
 [q28]: https://github.com/ergohaven/vial-qmk/releases/download/4.0.4/4.0.4_sm30_v1.uf2
 [q29]: https://github.com/ergohaven/vial-qmk/releases/download/4.0.4/4.0.4_phenom_v1.uf2
 [q30]: https://github.com/ergohaven/vial-qmk/releases/download/4.0.4/4.0.4_phenom_mini_v1.uf2
+[q31]: https://github.com/ergohaven/vial-qmk/releases/download/4.0.4/4.0.4_phenom_micro_v1.uf2
 
 ## ZMK (wireless)
 | Device              | Standard layout                                | RuEn layout                          |
