@@ -1,0 +1,57 @@
+{
+  "managed": {
+    "qmk": {
+      "q04": "hpd_v1",
+      "q05": "k03_v1_v2",
+      "q06": "imperial44_v1_v2",
+      "q07": "k02_v1",
+      "q08": "planeta_v1",
+      "q09": "planeta_v2",
+      "q10": "macropad_v1",
+      "q11": "macropad_v2",
+      "q12": "remnant_v1",
+      "q13": "velvet_v1",
+      "q14": "velvet_v2",
+      "q15": "trackball_v1",
+      "q16": "k03pro_43mm_v1",
+      "q18": "k03pro_65mm_v1",
+      "q20": "trackball_v2"
+    },
+    "zmk": {
+      "z50": "op36_left-ergohaven-zmk.uf2",
+      "z51": "op36_left_ruen-ergohaven-zmk.uf2",
+      "z52": "op36_right-ergohaven-zmk.uf2",
+      "z53": "op36_left_qube-ergohaven-zmk.uf2",
+      "z54": "op36_qube-ergohaven-zmk.uf2",
+      "z55": "op36_qube_ruen-ergohaven-zmk.uf2",
+      "z60": "velvet_v3_left-ergohaven-zmk.uf2",
+      "z61": "velvet_v3_left_ruen-ergohaven-zmk.uf2",
+      "z62": "velvet_v3_right-ergohaven-zmk.uf2",
+      "z63": "velvet_v3_left_qube-ergohaven-zmk.uf2",
+      "z64": "velvet_v3_qube-ergohaven-zmk.uf2",
+      "z65": "velvet_v3_qube_ruen-ergohaven-zmk.uf2",
+      "z70": "velvet_v3_ui_left-ergohaven-zmk.uf2",
+      "z71": "velvet_v3_ui_right-ergohaven-zmk.uf2",
+      "z72": "velvet_v3_ui_right_ruen-ergohaven-zmk.uf2",
+      "z73": "velvet_v3_ui_right_qube-ergohaven-zmk.uf2",
+      "z74": "velvet_v3_ui_qube-ergohaven-zmk.uf2",
+      "z75": "velvet_v3_ui_qube_ruen-ergohaven-zmk.uf2",
+      "z80": "k03_left-ergohaven-zmk.uf2",
+      "z81": "k03_left_ruen-ergohaven-zmk.uf2",
+      "z82": "k03_right-ergohaven-zmk.uf2",
+      "z83": "k03_left_qube-ergohaven-zmk.uf2",
+      "z84": "k03_qube-ergohaven-zmk.uf2",
+      "z85": "k03_qube_ruen-ergohaven-zmk.uf2",
+      "z90": "imperial44_left-ergohaven-zmk.uf2",
+      "z91": "imperial44_left_ruen-ergohaven-zmk.uf2",
+      "z92": "imperial44_right-ergohaven-zmk.uf2",
+      "z93": "imperial44_left_qube-ergohaven-zmk.uf2",
+      "z94": "imperial44_qube-ergohaven-zmk.uf2",
+      "z95": "imperial44_qube_ruen-ergohaven-zmk.uf2"
+    }
+  },
+  "static": {
+    "z00": "https://github.com/ergohaven/ergohaven-zmk/releases/download/2026.03.16/settings_reset-ergohaven-zmk.uf2",
+    "z01": "https://github.com/ergohaven/ergohaven-zmk/releases/download/2026.03.16/qube_rmk_to_zmk_reset.uf2"
+  }
+}
