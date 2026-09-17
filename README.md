@@ -8,6 +8,8 @@ Firmware is now available in the Ergohaven documentation:
 <details>
 <summary>Firmware archive</summary>
 
+<!-- Release URLs are managed by scripts/update-firmware-archive.py. Edit firmware-archive.json to change the asset set. -->
+
 ## QMK (wired)
 | Previous devices                                    | Current devices                   |
 | --------------------------------------------------- | --------------------------------- |
@@ -22,21 +24,21 @@ Firmware is now available in the Ergohaven documentation:
 | [K:02][q07]                                         |                                   |
 | [Remnant][q12]                                      |                                   |
 
-[q04]: https://github.com/ergohaven/vial-qmk/releases/download/4.0.5/4.0.5_hpd_v1.uf2
-[q05]: https://github.com/ergohaven/vial-qmk/releases/download/4.0.5/4.0.5_k03_v1_v2.uf2
-[q06]: https://github.com/ergohaven/vial-qmk/releases/download/4.0.5/4.0.5_imperial44_v1_v2.uf2
-[q07]: https://github.com/ergohaven/vial-qmk/releases/download/4.0.5/4.0.5_k02_v1.uf2
-[q08]: https://github.com/ergohaven/vial-qmk/releases/download/4.0.5/4.0.5_planeta_v1.uf2
-[q09]: https://github.com/ergohaven/vial-qmk/releases/download/4.0.5/4.0.5_planeta_v2.uf2
-[q10]: https://github.com/ergohaven/vial-qmk/releases/download/4.0.5/4.0.5_macropad_v1.uf2
-[q11]: https://github.com/ergohaven/vial-qmk/releases/download/4.0.5/4.0.5_macropad_v2.uf2
-[q12]: https://github.com/ergohaven/vial-qmk/releases/download/4.0.5/4.0.5_remnant_v1.uf2
-[q13]: https://github.com/ergohaven/vial-qmk/releases/download/4.0.5/4.0.5_velvet_v1.uf2
-[q14]: https://github.com/ergohaven/vial-qmk/releases/download/4.0.5/4.0.5_velvet_v2.uf2
-[q15]: https://github.com/ergohaven/vial-qmk/releases/download/4.0.5/4.0.5_trackball_v1.uf2
-[q16]: https://github.com/ergohaven/vial-qmk/releases/download/4.0.5/4.0.5_k03pro_43mm_v1.uf2
-[q18]: https://github.com/ergohaven/vial-qmk/releases/download/4.0.5/4.0.5_k03pro_65mm_v1.uf2
-[q20]: https://github.com/ergohaven/vial-qmk/releases/download/4.0.5/4.0.5_trackball_v2.uf2
+[q04]: https://github.com/ergohaven/vial-qmk/releases/download/4.0.6/4.0.6_hpd_v1.uf2
+[q05]: https://github.com/ergohaven/vial-qmk/releases/download/4.0.6/4.0.6_k03_v1_v2.uf2
+[q06]: https://github.com/ergohaven/vial-qmk/releases/download/4.0.6/4.0.6_imperial44_v1_v2.uf2
+[q07]: https://github.com/ergohaven/vial-qmk/releases/download/4.0.6/4.0.6_k02_v1.uf2
+[q08]: https://github.com/ergohaven/vial-qmk/releases/download/4.0.6/4.0.6_planeta_v1.uf2
+[q09]: https://github.com/ergohaven/vial-qmk/releases/download/4.0.6/4.0.6_planeta_v2.uf2
+[q10]: https://github.com/ergohaven/vial-qmk/releases/download/4.0.6/4.0.6_macropad_v1.uf2
+[q11]: https://github.com/ergohaven/vial-qmk/releases/download/4.0.6/4.0.6_macropad_v2.uf2
+[q12]: https://github.com/ergohaven/vial-qmk/releases/download/4.0.6/4.0.6_remnant_v1.uf2
+[q13]: https://github.com/ergohaven/vial-qmk/releases/download/4.0.6/4.0.6_velvet_v1.uf2
+[q14]: https://github.com/ergohaven/vial-qmk/releases/download/4.0.6/4.0.6_velvet_v2.uf2
+[q15]: https://github.com/ergohaven/vial-qmk/releases/download/4.0.6/4.0.6_trackball_v1.uf2
+[q16]: https://github.com/ergohaven/vial-qmk/releases/download/4.0.6/4.0.6_k03pro_43mm_v1.uf2
+[q18]: https://github.com/ergohaven/vial-qmk/releases/download/4.0.6/4.0.6_k03pro_65mm_v1.uf2
+[q20]: https://github.com/ergohaven/vial-qmk/releases/download/4.0.6/4.0.6_trackball_v2.uf2
 
 ## ZMK (wireless)
 | Device              | Standard layout                                | RuEn layout                          |
